@@ -1,0 +1,14 @@
+.logo{
+    display: inline-block;
+  }
+  
+  header{
+    background: #f8f8f8;
+  }
+  header span{
+    color: blue;
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 19px;
+    font-weight: bold;
+  }
